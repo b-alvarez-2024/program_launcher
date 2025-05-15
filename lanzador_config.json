@@ -1,0 +1,22 @@
+[
+  {
+    "name": "irfanview",
+    "program_path": "C:/Program Files/IrfanView/i_view64.exe",
+    "icon_path": "C:/totalcmd/icons/i2.ico"
+  },
+  {
+    "name": "xnvies",
+    "program_path": "C:/Program Files/XnViewMP/xnviewmp.exe",
+    "icon_path": "C:/totalcmd/icons/redon sucio.ico"
+  },
+  {
+    "name": "irfanview",
+    "program_path": "C:\\Program Files (x86)\\aBreevy8\\aBreevy8.exe",
+    "icon_path": "C:/Program Files (x86)/aBreevy8/aBreevy8.exe,0"
+  },
+  {
+    "name": "xnvies",
+    "program_path": "C:/Program Files/XnViewMP/xnviewmp.exe",
+    "icon_path": "C:/totalcmd/icons/redon sucio.ico"
+  }
+]
