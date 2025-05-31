@@ -1,9 +1,9 @@
-# 🚀 Lanzador de Aplicaciones con Interfaz Gráfica (Python + Tkinter)
+# 🚀 Application launcher with a simple grafic interface (Python + Tkinter)
 
-Un lanzador personalizable de aplicaciones con iconos, que permite guardar y cargar configuraciones en JSON.
+"A customizable application launcher with icons, allowing configurations to be saved and loaded in JSON."
 
-## 📦 Requisitos
+## 📦 Requirements
 - Python 3.13
-- Dependencias:
+- Dependencies:
   ```bash
   pip install pillow
