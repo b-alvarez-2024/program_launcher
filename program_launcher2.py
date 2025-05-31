@@ -1,9 +1,11 @@
+
 import tkinter as tk
 from tkinter import filedialog, messagebox, simpledialog
 from PIL import Image, ImageTk
 import subprocess
 import json
 import os
+
 
 class AppLauncher:
     def __init__(self, root_window):
